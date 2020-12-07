@@ -1,7 +1,7 @@
 [![Header](https://github.com/KarlssonLucas/KarlssonLucas/blob/main/banner.png?raw=true "Header")](https://martinheinz.dev/)
 
 ## Hi there, my name is Lucas "Kakan" Karlsson 👋
-### I study my second year of Software Engineering at Chalmers Technical University. I plan on becoming a full-time developer when I'm done with school but for now I occupy my free time with sideprojects. Main language at the moment is Java, Python and some webdev but I'm planning on learning Go, Rust and some C#/C++.
+### I study my second year of Software Engineering at Chalmers Technical University. I plan on becoming a full-time developer when I'm done with school but for now I occupy my free time with sideprojects.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/KarlssonLucas/KarlssonLucas">
