@@ -1,13 +1,23 @@
-[![Header](https://github.com/KarlssonLucas/KarlssonLucas/blob/main/banner.png?raw=true "Header")](https://martinheinz.dev/)
+<h3 align="center">👋 Hi there! I'm Lucas Karlsson</h3>
 
-## Hi there, my name is Lucas "Kakan" Karlsson 👋
-### I study my third year of Software Engineering at Chalmers Technical University. I plan on becoming a full-time developer when I'm done with school but for now I occupy my free time with sideprojects.
-## &#x1f4c8; GitHub Stats
-
+---
+<div align="center">
 <a href="https://github.com/KarlssonLucas/KarlssonLucas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarlssonLucas&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karlssonlucas&hide=stars&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22&border_color=161b22")
+">
 </a>
 <a href="https://github.com/KarlssonLucas/KarlssonLucas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarlssonLucas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lucas's GitHub Stats" />
-</a>
-   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlssonlucas&layout=compact&hide=html&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22&border_color=161b22" alt="Lucas's GitHub Stats" />
+</a>                                                                                                                                             
+</div>
+
+<br>
+
+```javascript
+  const Lucas Karlsson = {
+    code: [Javascript, HTML, CSS, Python, Java, Haskell, PSQL],
+    tools: [React, Node, Component Libraries, Docker, GitHub],
+    OS: ["Linux", "MacOS", "Windows"]
+    School: "Software Engineering At Chalmers University of Technology"
+  }
+```
