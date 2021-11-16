@@ -2,11 +2,11 @@
 
 ---
 <a href="https://github.com/KarlssonLucas/KarlssonLucas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karlssonlucas&hide=stars&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22&border_color=161b22")
-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karlssonlucas&hide=stars&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22&border_color=161b22")" />
 </a>
+
 <a href="https://github.com/KarlssonLucas/KarlssonLucas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlssonlucas&layout=compact&hide=html&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22&border_color=161b22" alt="Lucas's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlssonlucas&layout=compact&hide=html&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=161b22&border_color=161b22" alt="Lucas's GitHub Stats"/>
 </a>                                                                                                                                             
 
 <br>
